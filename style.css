@@ -22,6 +22,10 @@
     gap: 20px;
     
  }
+ .pokemon-card img {
+width: 100px;
+height: 100px;
+ }
  .pokemon-card{
     background-color: #eee;
     width: 150px;
@@ -45,5 +49,10 @@
     .pokemon-list {
         grid-template-columns: repeat(3,1fr);
     }
+
+ }
+ button{
+width: 100px;
+
 
  }
